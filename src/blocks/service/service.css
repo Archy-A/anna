@@ -1,0 +1,17 @@
+.service {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    position: relative;
+    flex-wrap: nowrap;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(223, 207, 200, 0.5);
+    margin-top: 50px;
+
+    /* border: 1px rgb(235, 14, 14) solid; */
+  }

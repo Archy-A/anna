@@ -1,0 +1,16 @@
+.menu__link {
+    font-family: "Avenir", "Arial", sans-serif;
+    font-size: 18px; 
+    font-style: normal;
+    font-weight: 600;
+    line-height: 55px;
+    color: rgb(130, 130, 130);
+    text-decoration: none;
+    transition: 0.5s;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.menu__link:hover {
+    opacity: 0.8;
+}

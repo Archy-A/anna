@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'AvenirNextCyr-UltraLight';
+	src: url('../fonts/avenirnextcyr-ultralight.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/avenirnextcyr-ultralight.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/avenirnextcyr-ultralight.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/avenirnextcyr-ultralight.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/avenirnextcyr-ultralight.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/avenirnextcyr-ultralight.svg#avenirnextcyr-ultralight') format('svg'); /* Chrome < 4, Legacy iOS */
+}

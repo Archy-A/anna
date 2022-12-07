@@ -1,0 +1,9 @@
+.service__text {
+    font-family: "Avenir", "Arial", sans-serif;
+    font-size: 25px; 
+    font-style: normal;
+    font-weight: 600;
+    line-height: 55px;
+    color: rgb(0, 0, 0);
+
+  }

@@ -1,0 +1,26 @@
+/* @font-face {
+  font-family: "Inter";
+  font-weight: 900;
+  src: url("../fonts/Inter-Black.woff2") format("woff2");
+} */
+
+@font-face {
+	font-family: 'Muller';
+	src: url('../fonts/muller_thin_demo.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/muller_thin_demo.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/muller_thin_demo.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/muller_thin_demo.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/muller_thin_demo.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/muller_thin_demo.svg#muller_thin_demo') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Avenir';
+	src: url('../fonts/avenirnextcyr-ultralight.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/avenirnextcyr-ultralight.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/avenirnextcyr-ultralight.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/avenirnextcyr-ultralight.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/avenirnextcyr-ultralight.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/avenirnextcyr-ultralight.svg#avenirnextcyr-ultralight') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
