@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/anna/static/css/main.6f939bf8.css",
+    "main.js": "/anna/static/js/main.b1d34844.js",
+    "static/js/787.f406472b.chunk.js": "/anna/static/js/787.f406472b.chunk.js",
+    "static/media/Tmp.jpg": "/anna/static/media/Tmp.04197a372b066ceea746.jpg",
+    "static/media/muller_thin_demo.svg": "/anna/static/media/muller_thin_demo.7a28f01f7d1d19330042.svg",
+    "static/media/avenirnextcyr-ultralight.svg": "/anna/static/media/avenirnextcyr-ultralight.2f5a47320035d3110d00.svg",
+    "static/media/muller_thin_demo.eot": "/anna/static/media/muller_thin_demo.e0537dafb2974169fe56.eot",
+    "static/media/muller_thin_demo.ttf": "/anna/static/media/muller_thin_demo.6882929caa75aa2f52d3.ttf",
+    "static/media/avenirnextcyr-ultralight.eot": "/anna/static/media/avenirnextcyr-ultralight.7b6b306ea0da7b5a3689.eot",
+    "static/media/avenirnextcyr-ultralight.ttf": "/anna/static/media/avenirnextcyr-ultralight.da7ea823f20f17fae4fd.ttf",
+    "static/media/muller_thin_demo.woff": "/anna/static/media/muller_thin_demo.86152dd355bd12ce681c.woff",
+    "static/media/avenirnextcyr-ultralight.woff": "/anna/static/media/avenirnextcyr-ultralight.1978d6eae3b48814a793.woff",
+    "static/media/muller_thin_demo.woff2": "/anna/static/media/muller_thin_demo.90ab4ea113b8482cd04b.woff2",
+    "static/media/avenirnextcyr-ultralight.woff2": "/anna/static/media/avenirnextcyr-ultralight.e930a33b23c9398f5aa5.woff2",
+    "static/media/Logo.svg": "/anna/static/media/Logo.9f4f464f8a680e894760c1935ae34c38.svg",
+    "index.html": "/anna/index.html",
+    "main.6f939bf8.css.map": "/anna/static/css/main.6f939bf8.css.map",
+    "main.b1d34844.js.map": "/anna/static/js/main.b1d34844.js.map",
+    "787.f406472b.chunk.js.map": "/anna/static/js/787.f406472b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f939bf8.css",
+    "static/js/main.b1d34844.js"
+  ]
+}
