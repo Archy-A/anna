@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/anna/static/css/main.c521cdf8.css",
+    "main.css": "/anna/static/css/main.467d5a07.css",
     "main.js": "/anna/static/js/main.b1d34844.js",
     "static/js/787.f406472b.chunk.js": "/anna/static/js/787.f406472b.chunk.js",
-    "static/media/Tmp.jpg": "/anna/static/media/Tmp.04197a372b066ceea746.jpg",
+    "static/media/Tmp1.jpg": "/anna/static/media/Tmp1.9580f53a553a028db335.jpg",
     "static/media/muller_thin_demo.svg": "/anna/static/media/muller_thin_demo.7a28f01f7d1d19330042.svg",
     "static/media/avenirnextcyr-ultralight.svg": "/anna/static/media/avenirnextcyr-ultralight.2f5a47320035d3110d00.svg",
     "static/media/muller_thin_demo.eot": "/anna/static/media/muller_thin_demo.e0537dafb2974169fe56.eot",
@@ -16,12 +16,12 @@
     "static/media/avenirnextcyr-ultralight.woff2": "/anna/static/media/avenirnextcyr-ultralight.e930a33b23c9398f5aa5.woff2",
     "static/media/Logo.svg": "/anna/static/media/Logo.9f4f464f8a680e894760c1935ae34c38.svg",
     "index.html": "/anna/index.html",
-    "main.c521cdf8.css.map": "/anna/static/css/main.c521cdf8.css.map",
+    "main.467d5a07.css.map": "/anna/static/css/main.467d5a07.css.map",
     "main.b1d34844.js.map": "/anna/static/js/main.b1d34844.js.map",
     "787.f406472b.chunk.js.map": "/anna/static/js/787.f406472b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c521cdf8.css",
+    "static/css/main.467d5a07.css",
     "static/js/main.b1d34844.js"
   ]
 }
